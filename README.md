@@ -1,4 +1,4 @@
-# AUTOMATIC-LED-CONTROL-USING-IR-SENSOR
+# EXP - 9 AUTOMATIC-LED-CONTROL-USING-IR-SENSOR
 ##  AIM
 To design and implement a system using the **STM32 microcontroller** where an LED automatically turns ON or OFF based on the input from an **IR sensor**.
 
@@ -26,7 +26,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 ### **Procedure**
 
 1. Open **STM32CubeIDE**.
-   <img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/109135f6-e6f9-46f8-86e1-ecafa6170b01" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13e53e07-c812-40a5-a3fe-0d4aaab05ac5" />
+
 
 2. Click **File → New STM32 Project**.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5799efb-57e1-42b8-ba46-b09f32d86fcb" />
@@ -102,8 +103,10 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+<img width="554" height="436" alt="image" src="https://github.com/user-attachments/assets/c890bfc5-b0f2-4a7d-bcfc-d882d842d8fa" />
 
 CASE 2: LED OFF
+<img width="634" height="389" alt="image" src="https://github.com/user-attachments/assets/6b0c6011-217c-41f3-930a-9f620dcafc3e" />
 
 ---
 ### RESULT
